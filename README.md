@@ -2,7 +2,7 @@
 
 Simple service with simple `Beer` JPA Entity model and repository with `CommandLineRunner` to pupulate the database automatically.
 
-#Start the application
+# Start the application
 ./mvnw spring-boot:run
 
 After it starts you should be able to open: 
